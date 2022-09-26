@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/muham/Desktop/Verilog/FourBitComparator/FourBitComparator.xst" -ofn "C:/Users/muham/Desktop/Verilog/FourBitComparator/FourBitComparator.syr" 

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/muham/Desktop/Verilog/FourBitComparator/FourBitTest_isim_beh.exe" -prj "C:/Users/muham/Desktop/Verilog/FourBitComparator/FourBitTest_beh.prj" "work.FourBitTest" "work.glbl" 
